@@ -76,3 +76,39 @@ Recommended IDEs:
 
 Run:
 MiniOSKernelSimulatorGUI.java
+
+---
+
+### 🎯 Educational Purpose
+
+This project was developed to help students understand important Operating System concepts through practical simulation and visualization.
+
+It can be useful for:
+
+- Operating System courses
+- Academic demonstrations
+- OS lab projects
+- Learning process scheduling and synchronization
+
+---
+
+### 🚀 Future Improvements
+- Deadlock simulation
+- Paging and segmentation
+- Disk scheduling algorithms
+- File system simulation
+- Better UI/UX enhancements
+
+---
+
+### 👨‍💻 Author
+Hafiz Muhammad Tayyab (NUST)
+
+### GitHub:
+Hafiz-tayyab-23
+
+---
+
+### ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
