@@ -68,9 +68,9 @@ git clone https://github.com/Hafiz-tayyab-23/Mini_OS_Simulator.git
 
 Recommended IDEs:
 
-IntelliJ IDEA
-Eclipse
-NetBeans
+-IntelliJ IDEA
+-Eclipse
+-NetBeans
 
 ### 3️⃣ Compile and Run
 
