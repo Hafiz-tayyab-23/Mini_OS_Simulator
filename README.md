@@ -63,3 +63,16 @@ Mini_OS_Simulator/
 
 ```bash
 git clone https://github.com/Hafiz-tayyab-23/Mini_OS_Simulator.git
+```
+### 2️⃣ Open in Your Java IDE
+
+Recommended IDEs:
+
+IntelliJ IDEA
+Eclipse
+NetBeans
+
+### 3️⃣ Compile and Run
+
+Run:
+MiniOSKernelSimulatorGUI.java
