@@ -109,6 +109,12 @@ Hafiz-tayyab-23
 
 ---
 
+## 👨‍💻 Contributors
+- Mursaleen Ahmad (NUST)
+- Faique Mustafa (NUST)
+
+---
+
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
