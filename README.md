@@ -53,6 +53,13 @@ Mini_OS_Simulator/
 ├── ProcessThreadPanel.java
 ├── SynchronizationPanel.java
 └── README.md
+```
 
 ---
-## 
+
+## ▶️ How to Run
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Hafiz-tayyab-23/Mini_OS_Simulator.git
